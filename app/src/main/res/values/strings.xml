@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Age Teller</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="the_age_teller">The Age Teller</string>
+    <string name="select_birthday">Select Birthday</string>
+    <string name="selected_date">Selected Date</string>
+    <string name="age_in_minutes">Age in Minutes</string>
+</resources>
